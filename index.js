@@ -1,0 +1,11 @@
+vk = "vigneshvk"
+console.log( vk.length)
+console.log(vk.charAt(2))
+console.log(vk.indexOf("k"))
+console.log(vk.slice(2,5))
+console.log(vk.slice(2))
+console.log(vk.toUpperCase().slice(2,8).split("H"))
+console.log(vk.includes("vks"))
+console.log(vk.split("h"))
+console.log("malayalam".split("a").toUpperCase)
+console.log("malayalam".split(""))
